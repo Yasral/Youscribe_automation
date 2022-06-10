@@ -1,0 +1,3 @@
+echo 'export PATH=$PATH:/home/santi/Desktop/Selenium' >> ~/.bash_profile
+
+source ~/.bash_profile
